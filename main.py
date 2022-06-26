@@ -1,6 +1,6 @@
 from fileinput import filename
 import PySimpleGUI as sg
-from output import numbers
+#from output import numbers
 from datetime import datetime
 from threading import Timer
 from random import randint
